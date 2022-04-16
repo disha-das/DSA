@@ -1,0 +1,18 @@
+c 9th DIMACS Implementation Challenge: Shortest Paths
+c http://www.dis.uniroma1.it/~challenge9
+c Sample graph file
+c
+p sp 5 10
+c graph contains 6 nodes and 8 arcs
+c
+a 1 2 6
+a 2 3 5
+a 3 2 -2
+a 1 4 7
+a 4 5 9
+a 3 5 7
+a 2 5 -4
+a 2 4 8
+a 4 3 -3
+a 2 5 -4
+
